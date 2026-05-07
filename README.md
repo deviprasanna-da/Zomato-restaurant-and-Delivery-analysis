@@ -55,4 +55,4 @@ Source: Kaggle — zomato Restaurants data-size 9551 restaurant globally, filter
 `SQL` `Power BI` `Excel` `Pivot Tables` `Data Cleaning` `Business Analysis`
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Overview.png)
+![Dashboard](Dashboard%20Overview.png)
